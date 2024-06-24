@@ -1,5 +1,5 @@
 # Library-Database-Management-System
-Constructed a Library Database Management System utilizing SQLite and SQL, alongside crafting a user-friendly software interface in Python. This interface seamlessly integrates with the DBMS, enabling users to effortlessly sign in, manage profiles, return books, search the catalog, pay penalties, and log out, enhancing the overall library experience.
+Constructed a Library Database Management System utilizing SQLite and SQL, alongside crafting a user-friendly software interface in Python. This interface seamlessly integrates with the DBMS, enabling users to effortlessly sign in, manage profiles, return books, search the catalog, pay penalties, and log out, enhancing the overall library experience. Here's a video showing off the project: https://drive.google.com/file/d/1sSW0UxeiG3Pa0xMNwfYmCsobEx4-crb8/view
 
 # Code execution guide
 1. Save the provided Python code in a file. For example it can be saved as it is "system.py"
